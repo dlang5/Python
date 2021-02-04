@@ -1,0 +1,9 @@
+Your Taco Bell Receipt for 2021-02-04 at 02:29
+The order will be delivered on 1/1 @ 1:01.
+
+1 Chalupa @ $2.99
+
+Subtotal: $ 2.99
+Tax: $ 0.25
+Delivery Fee: $ 3.99
+Total: $ 7.23
